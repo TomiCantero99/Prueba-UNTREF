@@ -1,0 +1,7 @@
+Nombre: Tomas
+Apellido: Cantero
+Edad: 25
+Altura: 1.74
+Peso: 85
+Color-Preferido: Azul
+d.n.i: 41289064
